@@ -1,0 +1,13 @@
+img {
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    border: solid 5px;
+   }
+   .blue-element {
+       background-color: #8ab3fe;
+    }
+
+    .darkblue-element {
+       background-color: #1f6ffd;
+    }
